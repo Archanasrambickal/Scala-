@@ -8,7 +8,7 @@ object Fact {
 	    for (i <- 1 to n){
 	      t=t + i
 	      }
-	    print("fact is"+t)
+	    print("factorial is"+t)
 	  }
 	  
 	}
